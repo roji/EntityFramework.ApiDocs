@@ -65,6 +65,7 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "ef"
+    "dest": "ef",
+    "markdownEngineName": "markdig"
   }
 }
