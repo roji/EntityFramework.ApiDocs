@@ -1,13 +1,17 @@
-﻿{
-  "metadata": [{
-    "src": [{
-      "files": [
-        "EntityFramework/EntityFramework.sln"
+{
+  "metadata": [
+    {
+      "src": [
+        {
+          "files": [
+            "EntityFramework/EntityFramework.sln"
+          ],
+          "src": "../src"
+        }
       ],
-      "src": "../src"
-    }],
-    "dest": "."
-  }],
+      "dest": "."
+    }
+  ],
   "build": {
     "content": [
       {
@@ -50,21 +54,22 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/ef/core/api/breadcrumb.json",
-       "ROBOTS": "INDEX,FOLLOW",
-       "author": "rowanmiller",
-       "ms.author": "rowmil",     
-       "manager": "wpickett",
-       "ms.date": "09/15/2016",
-       "ms.topic": "reference",
-       "audience": "developer",
-       "ms.reviewer": "rowmil",
-       "ms.prod": "entity-framework",
-       "ms.technology": "entity-framework-core",
-       "ms.tgt_pltfrm": "dotnet",
-       "ms.devlang": "dotnet"
+      "ROBOTS": "INDEX,FOLLOW",
+      "author": "rowanmiller",
+      "ms.author": "rowmil",
+      "manager": "wpickett",
+      "ms.date": "09/15/2016",
+      "ms.topic": "reference",
+      "audience": "developer",
+      "ms.reviewer": "rowmil",
+      "ms.prod": "entity-framework",
+      "ms.technology": "entity-framework-core",
+      "ms.tgt_pltfrm": "dotnet",
+      "ms.devlang": "dotnet"
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "ef"
+    "dest": "ef",
+    "markdownEngineName": "markdig"
   }
 }

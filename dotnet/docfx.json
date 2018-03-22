@@ -55,11 +55,16 @@
     },
     "fileMetadata": {
       "langs": {
-        "api/**.yml": ["csharp", "vb", "fsharp"]
+        "api/**.yml": [
+          "csharp",
+          "vb",
+          "fsharp"
+        ]
       }
     },
     "template": [],
     "dest": "efcoreapi",
-    "lruSize": 0
+    "lruSize": 0,
+    "markdownEngineName": "markdig"
   }
 }
