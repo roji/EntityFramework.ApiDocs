@@ -56,21 +56,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.ChangeTracker.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.ChangeTracker",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.ChangeTracking.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.ChangeTracking",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure-1.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure-1",
             "redirect_document_id": true
@@ -86,18 +71,8 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.AccessorExtensions.GetInfrastructure.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.AccessorExtensions.GetInfrastructure",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure",
             "redirect_document_id": true
         },
         {
@@ -7736,23 +7711,8 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.AccessorExtensions.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.AccessorExtensions",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.AccessorExtensions.GetService.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.AccessorExtensions.GetService",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.AccessorExtensions.GetInfrastructure.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.AccessorExtensions.GetInfrastructure",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure-1.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure-1",
             "redirect_document_id": true
         },
         {
@@ -7766,17 +7726,7 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/''.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/TService.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/T.md",
             "redirect_url": "/dotnet/api",
             "redirect_document_id": true
         },
@@ -7896,11 +7846,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Metadata.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Metadata",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.MutableAnnotatableExtensions.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.MutableAnnotatableExtensions",
             "redirect_document_id": true
@@ -7913,16 +7858,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Metadata.Internal.AnnotatableExtensions.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Metadata.Internal.AnnotatableExtensions",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Metadata.Internal.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Metadata.Internal",
             "redirect_document_id": true
         },
         {
@@ -8041,11 +7976,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.-ctor.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.-ctor",
             "redirect_document_id": true
@@ -8107,21 +8037,6 @@
         },
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.Microsoft-EntityFrameworkCore-Infrastructure-IInfrastructure-Instance.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.Database.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.Database",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure.Microsoft.EntityFrameworkCore.Infrastructure.AccessorExtensions.GetService.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure.Microsoft.EntityFrameworkCore.Infrastructure.AccessorExtensions.GetInfrastructure.md",
             "redirect_url": "/dotnet/api",
             "redirect_document_id": true
         },
@@ -8326,11 +8241,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Sqlite.FunctionalTests.SqliteDatabaseFacadeExtensions.md",
             "redirect_url": "/dotnet/api",
             "redirect_document_id": true
@@ -8358,31 +8268,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Storage.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Storage",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Storage.IExecutionStrategy.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Storage.IExecutionStrategy",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.SaveChanges.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.SaveChanges",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure.Instance.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure-1.Instance.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure-1.Instance",
             "redirect_document_id": true
         },
         {
@@ -8531,18 +8416,8 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServiceCollectionExtensions.AddEntityFramework.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServiceCollectionExtensions.AddEntityFramework",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext.md",
             "redirect_url": "/dotnet/api/Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/IServiceCollection.md",
-            "redirect_url": "/dotnet/api",
             "redirect_document_id": true
         },
         {
@@ -8561,63 +8436,8 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptions.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptions",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptions.Extensions.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptions.Extensions",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptions.FindExtension.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptions.FindExtension",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.OnConfiguring.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.OnConfiguring",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContextOptionsBuilder.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContextOptionsBuilder",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptionsExtension.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptionsExtension",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/TExtension.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptionsBuilderInfrastructure.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptionsBuilderInfrastructure",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptionsBuilderInfrastructure.AddOrUpdateExtension.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptionsBuilderInfrastructure.AddOrUpdateExtension",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptionsExtension.ApplyServices.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.IDbContextOptionsExtension.ApplyServices",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContextOptions.Extensions.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContextOptions.Extensions",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContextOptions.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContextOptions",
             "redirect_document_id": true
         },
         {
@@ -8656,11 +8476,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.ModelBuilder.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.ModelBuilder",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IModelSource.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.IModelSource",
             "redirect_document_id": true
@@ -8668,11 +8483,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.IModelSource.GetModel.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.IModelSource.GetModel",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Metadata.IModel.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Metadata.IModel",
             "redirect_document_id": true
         },
         {
@@ -8691,16 +8501,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.InMemoryDbContextOptionsBuilder.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.InMemoryDbContextOptionsBuilder",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.InMemoryDbContextOptionsBuilder.-ctor.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.InMemoryDbContextOptionsBuilder.-ctor",
             "redirect_document_id": true
@@ -8708,11 +8508,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.InMemoryDbContextOptionsBuilder.OptionsBuilder.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.InMemoryDbContextOptionsBuilder.OptionsBuilder",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.InMemoryDbContextOptionsExtensions.UseInMemoryDatabase.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.InMemoryDbContextOptionsExtensions.UseInMemoryDatabase",
             "redirect_document_id": true
         },
         {
@@ -8976,16 +8771,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Storage.Internal.RelationalLoggerExtensions.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Storage.Internal.RelationalLoggerExtensions",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Storage.Internal.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Storage.Internal",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.ModelCacheKey.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.ModelCacheKey",
             "redirect_document_id": true
@@ -9048,11 +8833,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.-ctor.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.-ctor",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1",
             "redirect_document_id": true
         },
         {
@@ -9201,11 +8981,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.RelationalEventId.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.RelationalEventId",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.RelationalEventId.ExecutedCommand.md",
             "redirect_url": "/dotnet/api",
             "redirect_document_id": true
@@ -9331,18 +9106,8 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/ILogger.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/ILogger-1.md",
             "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.SqliteDbContextOptionsBuilder.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.SqliteDbContextOptionsBuilder",
             "redirect_document_id": true
         },
         {
@@ -9358,11 +9123,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.SqliteDbContextOptionsBuilder.SuppressForeignKeyEnforcement.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.SqliteDbContextOptionsBuilder.SuppressForeignKeyEnforcement",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.SqliteDbContextOptionsBuilderExtensions.UseSqlite.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.SqliteDbContextOptionsBuilderExtensions.UseSqlite",
             "redirect_document_id": true
         },
         {
@@ -9471,11 +9231,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.SqlServerDbContextOptionsBuilder.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.SqlServerDbContextOptionsBuilder",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.SqlServerDbContextOptionsBuilder.-ctor.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.SqlServerDbContextOptionsBuilder.-ctor",
             "redirect_document_id": true
@@ -9493,11 +9248,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.SqlServerDbContextOptionsBuilder.EnableRetryOnFailure.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.SqlServerDbContextOptionsBuilder.EnableRetryOnFailure",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.SqlServerDbContextOptionsExtensions.UseSqlServer.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.SqlServerDbContextOptionsExtensions.UseSqlServer",
             "redirect_document_id": true
         },
         {
@@ -9651,11 +9401,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.WarningsConfigurationBuilder.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.WarningsConfigurationBuilder",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.WarningsConfigurationBuilder.-ctor.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.WarningsConfigurationBuilder.-ctor",
             "redirect_document_id": true
@@ -9683,11 +9428,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Infrastructure.WarningsConfigurationBuilder.Ignore.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Infrastructure.WarningsConfigurationBuilder.Ignore",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContextOptionsBuilder.ConfigureWarnings.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContextOptionsBuilder.ConfigureWarnings",
             "redirect_document_id": true
         },
         {
@@ -9882,11 +9622,6 @@
         },
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Specification.Tests.AsNoTrackingTestBase.Fixture.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Specification.Tests.md",
             "redirect_url": "/dotnet/api",
             "redirect_document_id": true
         },
@@ -13856,11 +13591,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.InMemory.FunctionalTests.InMemoryTestStore.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Specification.Tests.ComplexNavigationsQueryFixtureBase.OnModelCreating.md",
             "redirect_url": "/dotnet/api",
             "redirect_document_id": true
@@ -16656,11 +16386,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Specification.Tests.TestStore.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.InMemory.FunctionalTests.InMemoryTestStore.GetOrCreateShared.md",
             "redirect_url": "/dotnet/api",
             "redirect_document_id": true
@@ -18397,11 +18122,6 @@
         },
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Specification.Tests.FindTestBase-2.TestStore.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/TEntity.md",
             "redirect_url": "/dotnet/api",
             "redirect_document_id": true
         },
@@ -22291,11 +22011,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityState.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityState",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Specification.Tests.TestHelpers.AssertResults.md",
             "redirect_url": "/dotnet/api",
             "redirect_document_id": true
@@ -23876,108 +23591,8 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.Microsoft-EntityFrameworkCore-Infrastructure-IInfrastructure-Instance.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.Dispose.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.Dispose",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.Entry.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.Entry",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.Add.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.Add",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.AddAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.AddAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.Attach.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.Attach",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.Update.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.Update",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.Remove.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.Remove",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.AddRange.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.AddRange",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.AddRangeAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.AddRangeAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.AttachRange.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.AttachRange",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.UpdateRange.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.UpdateRange",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.RemoveRange.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.RemoveRange",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.ChangeTracker.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.ChangeTracker",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.Model.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.Model",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.Set.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.Set",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.Find.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.Find",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.FindAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.FindAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContext.OnModelCreating.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContext.OnModelCreating",
             "redirect_document_id": true
         },
         {
@@ -24163,11 +23778,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Specification.Tests.NorthwindQueryFixtureBase.CreateContext.md",
             "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.QueryTrackingBehavior.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.QueryTrackingBehavior",
             "redirect_document_id": true
         },
         {
@@ -34761,66 +34371,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Tests.ApiConsistencyTestBase.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Tests.ApiConsistencyTestBase.PublicInstance.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Tests.ApiConsistencyTestBase.AnyInstance.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Tests.ApiConsistencyTestBase.Public_inheritable_apis_should_be_virtual.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Tests.ApiConsistencyTestBase.Public_api_arguments_should_have_not_null_annotation.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Tests.ApiConsistencyTestBase.Async_methods_should_have_overload_with_cancellation_token_and_end_with_async_suffix.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Tests.ApiConsistencyTestBase.Public_api_bool_parameters_should_not_be_prefixed.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Tests.ApiConsistencyTestBase.GetCancellationTokenExceptions.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Tests.ApiConsistencyTestBase.GetAsyncSuffixExceptions.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Tests.ApiConsistencyTestBase.GetAllTypes.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Tests.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Tests.ApiConsistencyTestBase.TargetAssembly.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.InMemory.Tests.InMemoryDatabaseCreatorTest.md",
             "redirect_url": "/dotnet/api",
             "redirect_document_id": true
@@ -35066,16 +34616,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.InMemoryDbContextOptionsExtensions.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.InMemoryDbContextOptionsExtensions",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbContextOptionsBuilder-1.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbContextOptionsBuilder-1",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.AsyncLock.Releaser.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.AsyncLock.Releaser",
             "redirect_document_id": true
@@ -35128,11 +34668,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.ConcurrencyDetector.Dispose.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.ConcurrencyDetector.Dispose",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.IConcurrencyDetector.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.IConcurrencyDetector",
             "redirect_document_id": true
         },
         {
@@ -35208,16 +34743,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.CoreOptionsExtension.ApplyServices.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.CoreOptionsExtension.ApplyServices",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/ILoggerFactory.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/IMemoryCache.md",
-            "redirect_url": "/dotnet/api",
             "redirect_document_id": true
         },
         {
@@ -36146,11 +35671,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.ICurrentDbContext.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.ICurrentDbContext",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.ICurrentDbContext.Context.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.ICurrentDbContext.Context",
             "redirect_document_id": true
@@ -36691,11 +36211,6 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.IEntityFinder.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.IEntityFinder",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.IEntityFinder-1.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.IEntityFinder-1",
             "redirect_document_id": true
@@ -36723,21 +36238,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.IEntityFinder.Load.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.IEntityFinder.Load",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Metadata.INavigation.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Metadata.INavigation",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.ChangeTracking.Internal.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.ChangeTracking.Internal",
             "redirect_document_id": true
         },
         {
@@ -36783,36 +36283,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.IEntityFinderSource.Create.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.IEntityFinderSource.Create",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.EnumerableExtensions.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.EnumerableExtensions",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.EnumerableExtensions.OrderByOrdinal.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.EnumerableExtensions.OrderByOrdinal",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.EnumerableExtensions.Distinct.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.EnumerableExtensions.Distinct",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.EnumerableExtensions.Join.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.EnumerableExtensions.Join",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.EnumerableExtensions.StructuralSequenceEqual.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.EnumerableExtensions.StructuralSequenceEqual",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.EnumerableExtensions.StartsWith.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.EnumerableExtensions.StartsWith",
             "redirect_document_id": true
         },
         {
@@ -36887,16 +36357,6 @@
         },
         {
             "source_path": "api_ref/TVertex.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/ISet.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/ISet-1.md",
             "redirect_url": "/dotnet/api",
             "redirect_document_id": true
         },
@@ -37003,16 +36463,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.InterceptingLogger-1.BeginScope.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.InterceptingLogger-1.BeginScope",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/EventId.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/TState.md",
-            "redirect_url": "/dotnet/api",
             "redirect_document_id": true
         },
         {
@@ -37126,203 +36576,8 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Query.Internal.IAsyncEnumerableAccessor.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Query.Internal.IAsyncEnumerableAccessor-1.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Query.Internal.IAsyncEnumerableAccessor-1",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AnyAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AnyAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AllAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AllAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.CountAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.CountAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.LongCountAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.LongCountAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.LastAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.LastAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.LastOrDefaultAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.LastOrDefaultAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.SingleAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.SingleAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.SingleOrDefaultAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.SingleOrDefaultAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.MinAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.MinAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.MaxAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.MaxAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.SumAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.SumAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AverageAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AverageAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ContainsAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ContainsAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToArrayAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToArrayAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AsNoTracking.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AsNoTracking",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AsTracking.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AsTracking",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Load.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Load",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.LoadAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.LoadAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToDictionaryAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToDictionaryAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ForEachAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ForEachAsync",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Extensions.Internal.QueryableExtensions.AsAsyncEnumerable.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Extensions.Internal.QueryableExtensions.AsAsyncEnumerable",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Specification.Tests.Extensions.NullChecked.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Specification.Tests.Extensions.ForEach.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSql.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSql",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Query.Internal.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Query.Internal",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Extensions.Internal.QueryableExtensions.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Extensions.Internal.QueryableExtensions",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Specification.Tests.Extensions.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.RelationalQueryableExtensions",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Extensions.Internal.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Extensions.Internal",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet.Local.md",
             "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.ChangeTracking.LocalView.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.ChangeTracking.LocalView-1.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.ChangeTracking.LocalView-1",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.Local.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.Local",
             "redirect_document_id": true
         },
         {
@@ -37336,18 +36591,8 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.Find.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.Find",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet.FindAsync.md",
             "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.FindAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.FindAsync",
             "redirect_document_id": true
         },
         {
@@ -37356,28 +36601,8 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.Add.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.Add",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry-1.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry-1",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet.AddAsync.md",
             "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.AddAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.AddAsync",
             "redirect_document_id": true
         },
         {
@@ -37386,18 +36611,8 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.Attach.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.Attach",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet.Remove.md",
             "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.Remove.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.Remove",
             "redirect_document_id": true
         },
         {
@@ -37406,22 +36621,7 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.Update.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.Update",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet.AddRange.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.AddRange.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.AddRange",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/'[]'.md",
             "redirect_url": "/dotnet/api",
             "redirect_document_id": true
         },
@@ -37431,18 +36631,8 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.AddRangeAsync.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.AddRangeAsync",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet.AttachRange.md",
             "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.AttachRange.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.AttachRange",
             "redirect_document_id": true
         },
         {
@@ -37451,38 +36641,8 @@
             "redirect_document_id": true
         },
         {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.RemoveRange.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.RemoveRange",
-            "redirect_document_id": true
-        },
-        {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet.UpdateRange.md",
             "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.DbSet-1.UpdateRange.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.DbSet-1.UpdateRange",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Query.Internal.IAsyncEnumerableAccessor.AsyncEnumerable.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/IAsyncEnumerable.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/IAsyncEnumerable-1.md",
-            "redirect_url": "/dotnet/api",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Query.Internal.IAsyncEnumerableAccessor-1.AsyncEnumerable.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Query.Internal.IAsyncEnumerableAccessor-1.AsyncEnumerable",
             "redirect_document_id": true
         },
         {
@@ -37688,11 +36848,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.Internal.NonCapturingLazyInitializer.EnsureInitialized.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Internal.NonCapturingLazyInitializer.EnsureInitialized",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/TValue.md",
-            "redirect_url": "/dotnet/api",
             "redirect_document_id": true
         },
         {
@@ -38643,16 +37798,6 @@
         {
             "source_path": "api_ref/Microsoft.EntityFrameworkCore.KeyExtensions.GetReferencingForeignKeys.md",
             "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.KeyExtensions.GetReferencingForeignKeys",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Metadata.IKey.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Metadata.IKey",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "api_ref/Microsoft.EntityFrameworkCore.Metadata.IForeignKey.md",
-            "redirect_url": "/dotnet/api/Microsoft.EntityFrameworkCore.Metadata.IForeignKey",
             "redirect_document_id": true
         },
         {
