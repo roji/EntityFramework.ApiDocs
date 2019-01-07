@@ -295,6 +295,7 @@
           <AttributeName>System.Runtime.Versioning.TargetFramework(".NETFramework,Version=v4.5", FrameworkDisplayName=".NET Framework 4.5")</AttributeName>
         </Attribute>
       </Attributes>
+      <AssemblyPublicKey>[00 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 ]</AssemblyPublicKey>
     </Assembly>
     <Assembly Name="EntityFramework.SqlServer" Version="6.0.0.0">
       <AssemblyPublicKey>[00 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 ]</AssemblyPublicKey>
@@ -378,6 +379,7 @@
           <AttributeName>System.Runtime.Versioning.TargetFramework(".NETFramework,Version=v4.5", FrameworkDisplayName=".NET Framework 4.5")</AttributeName>
         </Attribute>
       </Attributes>
+      <AssemblyPublicKey>[00 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 ]</AssemblyPublicKey>
     </Assembly>
   </Assemblies>
   <Remarks>To be added.</Remarks>
